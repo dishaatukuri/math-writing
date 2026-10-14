@@ -1,8 +1,15 @@
-**Author:** Disha Atukuri
-**Supervisor:** Dr. Elena Berardini, Institut de Mathématiques de Bordeaux (CNRS)
-**Programme:** ALGANT Master's, University of Bordeaux, 2026
+# Master's Theses — Disha Atukuri
 
+## Zeta Functions of Linear Codes in the Hamming and Rank-Metrics (2026)
+**Supervisor:** Dr. Elena Berardini, Institut de Mathématiques de Bordeaux (CNRS)
+**Programme:** ALGANT Master's, University of Bordeaux
 📄 [Read the thesis (PDF)](Atukuri_Masters_Thesis.pdf)
 
-## Abstract
-Motivated by the properties of algebraic curves and the linear codes constructed from them (algebraic geometry codes), Duursma introduced analogues of the zeta function and its L-polynomial for linear codes in the Hamming metric. This thesis explores the zeta functions of codes in the Hamming and rank metrics, using properties analogous or equivalent to those of zeta functions of algebraic curves.
+Explores Duursma's zeta functions of linear codes in the Hamming metric and their rank-metric counterparts: their structure, functional equations, and Riemann hypothesis analogues, in analogy with zeta functions of algebraic curves.
+
+## Higher Reciprocity Laws (2024)
+**Supervisor:** Dr. Mohan Chintamani, University of Hyderabad
+**Programme:** Integrated Master's in Mathematical Sciences, University of Hyderabad
+📄 [Read the thesis (PDF)](Atukuri_Hyderabad_Thesis.pdf)
+
+Explores cubic reciprocity via Gauss and Jacobi sums and their application to generalised Lucas–Lehmer primality tests, following Berrizbeitia and Berry.
